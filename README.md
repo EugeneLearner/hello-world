@@ -1,2 +1,2 @@
 # hello-world
-Learning
+I am learning computer science and seems like github will be very important!
